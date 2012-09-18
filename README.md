@@ -1,2 +1,0 @@
-arturkim.github.com
-===================
